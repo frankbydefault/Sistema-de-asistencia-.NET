@@ -1,0 +1,12 @@
+C:\Users\Potat\source\repos\Sistema_de_Asistencias\Sistema_de_Asistencias\bin\Debug\Sistema_de_Asistencias.exe.config
+C:\Users\Potat\source\repos\Sistema_de_Asistencias\Sistema_de_Asistencias\bin\Debug\Sistema_de_Asistencias.exe
+C:\Users\Potat\source\repos\Sistema_de_Asistencias\Sistema_de_Asistencias\bin\Debug\Sistema_de_Asistencias.pdb
+C:\Users\Potat\source\repos\Sistema_de_Asistencias\Sistema_de_Asistencias\obj\Debug\Sistema_de_Asistencias.csproj.AssemblyReference.cache
+C:\Users\Potat\source\repos\Sistema_de_Asistencias\Sistema_de_Asistencias\obj\Debug\Sistema_de_Asistencias.csproj.SuggestedBindingRedirects.cache
+C:\Users\Potat\source\repos\Sistema_de_Asistencias\Sistema_de_Asistencias\obj\Debug\Sistema_de_Asistencias.Properties.Resources.resources
+C:\Users\Potat\source\repos\Sistema_de_Asistencias\Sistema_de_Asistencias\obj\Debug\Sistema_de_Asistencias.csproj.GenerateResource.cache
+C:\Users\Potat\source\repos\Sistema_de_Asistencias\Sistema_de_Asistencias\obj\Debug\Sistema_de_Asistencias.csproj.CoreCompileInputs.cache
+C:\Users\Potat\source\repos\Sistema_de_Asistencias\Sistema_de_Asistencias\obj\Debug\Sistema_de_Asistencias.exe
+C:\Users\Potat\source\repos\Sistema_de_Asistencias\Sistema_de_Asistencias\obj\Debug\Sistema_de_Asistencias.pdb
+C:\Users\Potat\source\repos\Sistema_de_Asistencias\Sistema_de_Asistencias\obj\Debug\Sistema_de_Asistencias.Presentacion.MenuPrincipal.resources
+C:\Users\Potat\source\repos\Sistema_de_Asistencias\Sistema_de_Asistencias\obj\Debug\Sistema_de_Asistencias.Presentacion.Personal.resources
